@@ -64,6 +64,10 @@ body {
     line-height: 100px;
 }
 
+.image-topic {
+    width: 100%;
+}
+
 .nav-list {
     font-size: 34px;
     font-style: normal;
