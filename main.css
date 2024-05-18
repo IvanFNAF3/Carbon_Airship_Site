@@ -21,18 +21,18 @@ body {
 }
 
 #nav {
-    width: 30%;
+    width: 100%;
     position: absolute;
-    text-align: left;
+    text-align: center;
     padding-left: 17px;
-    padding-top: 25px;
+    padding-top: 35px;
 }
 
 #nav li {
     display: inline;
     color: #ffff92;
-    padding: 0 17px;
     cursor: pointer;
+    padding-right: 40px;
 }
 
 #nav li a {
